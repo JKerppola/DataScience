@@ -1,0 +1,491 @@
+"";"gender";"age";"edu";"salary";"previous.orders";"previous.purchase";"favourite.genre";"recommendation"
+"1";"Male";50;"University";4169;14;566,12461464043;"Comedy";2
+"2";"Female";44;"University";4239;1;38,4769557637331;"Drama";2
+"3";"Male";24;"High School";3014;32;863,77621457793;"Horror";2
+"4";"Male";31;"High School";2053;41;1956,59489977135;"Romance";2
+"5";"Female";28;"University";1760;21;331,994136489013;"Romance";2
+"6";"Male";31;"University";2418;1;30,7725103590944;"Comedy";2
+"7";"Male";41;"University";3062;30;1465,14797798015;"Crime";2
+"8";"Male";37;"University";1013;7;274,086586672484;"Comic";1
+"9";"Male";58;"High School";2880;10;389,713923252159;"Comic";2
+"10";"Female";44;"University";2724;45;1547,53667587996;"Horror";2
+"11";"Female";58;"High School";3741;45;1246,3173105982;"Drama";3
+"12";"Female";48;"University";3022;30;792,369586719808;"Horror";2
+"13";"Male";26;"High School";2306;28;1378,16264695453;"Horror";2
+"14";"Female";23;"University";1284;36;1207,1408730747;"Comic";2
+"15";"Female";40;"High School";2428;16;802,654918171414;"Crime";2
+"16";"Female";22;"University";2718;23;587,65381223425;"Comedy";2
+"17";"Female";39;"University";4270;19;880,908350979456;"Drama";2
+"18";"Female";32;"University";1017;41;1822,48627919218;"Crime";2
+"19";"Female";49;"University";4617;6;265,397237964115;"Horror";2
+"20";"Male";33;"University";3571;27;1292,63724836033;"Comic";2
+"21";"Female";24;"High School";3450;8;311,480819006223;"Comic";2
+"22";"Male";50;"University";2969;49;1788,12489593519;"Horror";3
+"23";"Male";20;"High School";2076;20;710,58257099183;"Romance";2
+"24";"Female";43;"High School";3344;4;144,997482800624;"Horror";2
+"25";"Female";33;"High School";3943;41;1588,746271624;"Comic";3
+"26";"Male";46;"High School";1750;40;1797,39941919879;"Crime";2
+"27";"Male";39;"University";1783;49;1535,18842824032;"Crime";2
+"28";"Female";23;"High School";4010;16;447,60176393137;"Comedy";2
+"29";"Male";23;"University";4549;7;291,868831491868;"Comedy";2
+"30";"Female";21;"University";1603;42;1870,17178957665;"Drama";2
+"31";"Male";39;"High School";2547;33;817,94602675852;"Crime";2
+"32";"Male";33;"University";2898;28;918,537927420656;"Comedy";2
+"33";"Female";48;"High School";2145;15;665,031853480366;"Comedy";2
+"34";"Female";58;"University";2120;22;927,521357053302;"Drama";2
+"35";"Female";21;"University";2764;16;649,612263604059;"Comic";2
+"36";"Male";20;"High School";2360;13;742,393191473822;"Crime";2
+"37";"Female";45;"University";1174;14;407,439191796817;"Romance";2
+"38";"Female";27;"University";1582;6;242,552982151443;"Crime";1
+"39";"Female";54;"University";2199;5;199,107938299046;"Drama";2
+"40";"Male";42;"University";3768;11;249,54557534888;"Comic";2
+"41";"Female";40;"University";4882;12;277,603634123691;"Comic";2
+"42";"Female";40;"High School";3638;2;77,3355612698705;"Drama";2
+"43";"Male";51;"University";3373;7;238,821330984409;"Horror";2
+"44";"Male";24;"High School";1851;20;566,73087689761;"Horror";2
+"45";"Male";31;"University";1106;13;499,028520247774;"Horror";1
+"46";"Female";27;"University";2680;31;1393,82543118337;"Romance";2
+"47";"Male";50;"University";2516;24;1000,00292050169;"Horror";2
+"48";"Female";36;"University";3309;15;620,231271218553;"Crime";2
+"49";"Male";48;"High School";3282;15;571,70679634349;"Romance";2
+"50";"Female";21;"University";3696;19;866,920674032132;"Romance";2
+"51";"Male";44;"University";2379;1;36,3538079606521;"Horror";1
+"52";"Female";57;"High School";1794;37;2250,26266485025;"Comedy";2
+"53";"Female";30;"University";2669;2;81,2374486524942;"Comedy";2
+"54";"Female";42;"High School";3169;12;475,173781940898;"Horror";2
+"55";"Male";35;"University";3793;8;197,784065079599;"Horror";2
+"56";"Male";24;"University";3385;22;1206,05748706928;"Comedy";2
+"57";"Female";20;"High School";4167;39;1735,34426357092;"Horror";3
+"58";"Male";42;"High School";2134;7;317,460737835132;"Crime";2
+"59";"Female";36;"University";4090;9;263,11921197875;"Romance";2
+"60";"Male";48;"High School";3544;20;673,025082406496;"Comic";2
+"61";"Male";38;"High School";2546;45;1548,57995345013;"Horror";2
+"62";"Female";21;"High School";4858;12;662,656188578684;"Crime";2
+"63";"Male";34;"University";2641;41;1291,8445246117;"Romance";2
+"64";"Female";57;"University";2071;30;1467,6940517357;"Drama";2
+"65";"Male";59;"University";3480;17;581,328008015753;"Romance";2
+"66";"Female";49;"University";3936;15;648,108071423425;"Drama";2
+"67";"Male";42;"High School";1490;13;677,178907107816;"Comedy";2
+"68";"Female";23;"High School";1758;17;450,776423212786;"Romance";2
+"69";"Female";46;"University";3293;30;837,050025329917;"Horror";2
+"70";"Female";48;"High School";2636;30;1358,52619269013;"Romance";2
+"71";"Male";52;"University";2059;0;0;"Drama";1
+"72";"Male";54;"High School";4923;38;1366,8589631658;"Comic";3
+"73";"Male";36;"High School";3060;16;661,855126033869;"Crime";2
+"74";"Female";41;"High School";3552;25;480,861479889539;"Crime";2
+"75";"Male";37;"University";2888;35;1123,5501848026;"Horror";2
+"76";"Male";27;"University";3870;31;1111,00872027757;"Horror";2
+"77";"Female";51;"University";4652;40;1241,02503200411;"Comedy";3
+"78";"Male";31;"University";1398;8;196,914350131026;"Romance";1
+"79";"Male";42;"University";3698;1;29,4841992062524;"Crime";2
+"80";"Female";36;"University";2761;18;1116,77008365885;"Drama";2
+"81";"Male";31;"University";4766;27;921,983364359457;"Horror";2
+"82";"Male";33;"University";2122;17;846,262264750374;"Crime";2
+"83";"Male";43;"University";3157;28;1316,14892597398;"Comedy";2
+"84";"Female";39;"University";4700;38;1075,98131516678;"Romance";3
+"85";"Male";59;"High School";3213;30;1573,78071410523;"Drama";2
+"86";"Female";35;"University";4831;18;913,106565112195;"Comic";2
+"87";"Male";23;"University";4961;29;747,025970472484;"Crime";3
+"88";"Male";55;"University";3048;37;1562,51157967127;"Drama";2
+"89";"Male";48;"University";1532;12;557,945028509037;"Drama";2
+"90";"Male";43;"University";1680;43;1467,83063132436;"Horror";2
+"91";"Female";39;"High School";4494;4;180,895993901669;"Drama";2
+"92";"Male";57;"University";1277;16;666,828400911532;"Horror";2
+"93";"Female";45;"University";2594;44;1507,54106868976;"Comedy";2
+"94";"Female";33;"High School";3461;26;904,320557765478;"Drama";2
+"95";"Male";27;"University";4713;31;1383,68310050965;"Crime";3
+"96";"Male";41;"High School";2963;18;783,200825457059;"Comedy";2
+"97";"Male";31;"University";4139;11;614,42413957729;"Horror";2
+"98";"Male";43;"University";4915;14;494,042030966335;"Crime";2
+"99";"Female";24;"University";1279;6;259,921908147483;"Romance";1
+"100";"Male";34;"High School";3646;14;393,353738817215;"Drama";2
+"101";"Female";35;"High School";4167;36;1355,34450481515;"Drama";3
+"102";"Male";42;"University";4754;36;1479,38569233259;"Comedy";3
+"103";"Female";23;"University";3395;22;1215,98803426172;"Drama";2
+"104";"Female";44;"University";4238;37;1021,01821246544;"Drama";3
+"105";"Male";53;"University";2304;3;83,9501893437801;"Drama";2
+"106";"Male";27;"University";2036;17;719,071263244505;"Drama";2
+"107";"Female";57;"High School";2267;42;727,929175398684;"Drama";2
+"108";"Male";35;"University";4234;18;753,616795271519;"Comic";2
+"109";"Female";59;"University";3907;35;1241,60043326128;"Comic";2
+"110";"Female";38;"High School";1137;36;1153,3855222974;"Horror";2
+"111";"Male";47;"University";3686;18;702,517928848225;"Comedy";2
+"112";"Male";30;"High School";1194;38;1323,37346317622;"Crime";2
+"113";"Male";49;"University";4582;17;622,507204878079;"Horror";2
+"114";"Female";58;"University";4001;43;1931,19223584868;"Drama";3
+"115";"Male";50;"High School";2721;41;1318,24638204087;"Romance";2
+"116";"Female";47;"University";2437;9;265,517235455811;"Comic";2
+"117";"Male";35;"University";2109;47;2041,44992281838;"Comic";2
+"118";"Female";31;"High School";1917;22;1225,05782330192;"Drama";2
+"119";"Male";25;"University";3400;10;298,197339966933;"Horror";2
+"120";"Female";20;"University";1114;14;729,655931529884;"Comedy";2
+"121";"Female";54;"University";3193;9;227,534477436458;"Drama";2
+"122";"Female";38;"University";2062;29;760,637438614121;"Comic";2
+"123";"Female";25;"University";1054;40;2093,69493644719;"Romance";2
+"124";"Female";30;"University";1094;21;870,672957143502;"Drama";2
+"125";"Male";48;"High School";3992;32;817,978531444507;"Crime";2
+"126";"Male";22;"High School";1505;38;1931,65388440035;"Comic";2
+"127";"Female";50;"High School";2202;8;460,517628072279;"Comic";2
+"128";"Male";30;"University";3318;10;252,890896802385;"Horror";2
+"129";"Female";24;"Elementary School";1729;19;792,993996457643;"Horror";2
+"130";"Male";41;"High School";4293;49;2081,39348153269;"Horror";3
+"131";"Male";22;"University";3262;30;958,076849665793;"Crime";2
+"132";"Female";49;"University";1890;28;1350,57638393169;"Romance";2
+"133";"Male";24;"High School";2688;4;213,25657029219;"Comedy";2
+"134";"Female";22;"University";4648;14;371,272043120108;"Horror";2
+"135";"Male";22;"University";3435;22;291,041101474736;"Crime";2
+"136";"Male";31;"High School";4586;21;1048,3203860735;"Comic";2
+"137";"Male";45;"High School";1899;3;105,792675882669;"Drama";1
+"138";"Male";56;"University";3315;43;1514,2962919903;"Romance";3
+"139";"Female";30;"University";3143;43;1871,85330409029;"Horror";2
+"140";"Male";20;"High School";1573;44;1765,69495423259;"Comedy";2
+"141";"Female";22;"University";4023;1;44,2956690930814;"Drama";2
+"142";"Male";58;"University";2961;36;1563,6210330212;"Crime";2
+"143";"Female";20;"University";1527;10;428,144083139586;"Crime";2
+"144";"Female";31;"High School";1498;22;756,721044800884;"Romance";2
+"145";"Female";29;"High School";2760;15;415,068787774525;"Horror";2
+"146";"Female";27;"University";1176;43;1616,82482642682;"Crime";2
+"147";"Female";23;"High School";4647;17;949,185451561389;"Drama";2
+"148";"Female";42;"University";3555;49;2112,24260656495;"Crime";3
+"149";"Male";23;"University";3372;33;1339,20698481891;"Comedy";2
+"150";"Female";33;"University";1961;19;773,184972895449;"Comic";2
+"151";"Female";22;"University";1253;5;223,158437270626;"Crime";1
+"152";"Female";22;"High School";3162;13;420,132084336928;"Crime";2
+"153";"Female";44;"University";4865;11;382,01013425601;"Horror";2
+"154";"Female";51;"University";1358;32;987,599162270026;"Romance";2
+"155";"Female";45;"University";4676;39;1558,09628085053;"Comedy";3
+"156";"Female";43;"High School";4760;26;1203,97932708488;"Comic";2
+"157";"Female";48;"University";2506;30;1018,50077090183;"Comedy";2
+"158";"Male";48;"University";4981;17;693,211829988095;"Horror";2
+"159";"Female";35;"University";2934;19;720,031607524763;"Crime";2
+"160";"Male";58;"High School";2792;31;1152,3709016748;"Comic";2
+"161";"Female";32;"University";4153;5;221,674903368448;"Comedy";2
+"162";"Male";27;"University";4461;28;1020,71990880184;"Romance";2
+"163";"Male";25;"University";4999;20;575,890073412198;"Romance";2
+"164";"Female";51;"High School";4387;1;51,1767924239651;"Drama";2
+"165";"Male";21;"University";2201;20;851,368852004539;"Drama";2
+"166";"Female";52;"University";3704;14;601,411893129779;"Horror";2
+"167";"Female";57;"University";4291;20;857,739388467661;"Comedy";2
+"168";"Male";22;"University";4664;22;577,479093381329;"Romance";2
+"169";"Female";25;"University";3719;8;323,294032129002;"Horror";2
+"170";"Female";33;"University";4818;37;1476,54765778907;"Comic";3
+"171";"Female";20;"University";2127;32;1774,30403427735;"Comic";2
+"172";"Female";32;"High School";3010;37;2096,62029301146;"Crime";2
+"173";"Female";44;"University";1909;4;132,270604085926;"Comedy";1
+"174";"Male";30;"High School";3083;10;487,603324128716;"Comedy";2
+"175";"Male";44;"University";2657;30;1058,029523547;"Horror";2
+"176";"Female";29;"High School";4832;46;2336,24361452614;"Crime";3
+"177";"Female";53;"University";2088;11;531,81580696028;"Comic";2
+"178";"Female";33;"Elementary School";1833;9;416,044926035186;"Horror";2
+"179";"Female";42;"University";1217;49;2567,44683327889;"Crime";2
+"180";"Male";40;"University";2790;37;1228,24972239749;"Crime";2
+"181";"Female";58;"High School";1667;29;958,358133800101;"Romance";2
+"182";"Female";27;"University";4778;24;1048,49184922938;"Crime";2
+"183";"Female";48;"University";1337;19;659,559379808155;"Drama";2
+"184";"Female";55;"High School";2666;12;548,769345831003;"Horror";2
+"185";"Male";27;"University";2334;8;180,185374682792;"Comedy";2
+"186";"Female";37;"University";2620;3;102,870280316759;"Comic";2
+"187";"Male";37;"High School";2062;15;534,291943195094;"Horror";2
+"188";"Male";44;"High School";3778;15;484,181353106927;"Comedy";2
+"189";"Female";53;"University";3046;0;0;"Drama";2
+"190";"Male";39;"High School";1908;31;1121,87386964406;"Crime";2
+"191";"Female";51;"University";2625;23;949,998222878874;"Comedy";2
+"192";"Male";51;"University";1397;0;0;"Comic";1
+"193";"Male";36;"University";2644;28;1295,23422198278;"Comic";2
+"194";"Male";22;"University";2527;44;2641,26604214452;"Horror";2
+"195";"Female";53;"High School";2768;29;1055,4981239166;"Comic";2
+"196";"Male";40;"University";1641;35;1193,7955438823;"Crime";2
+"197";"Female";22;"University";4746;7;312,878971034234;"Drama";2
+"198";"Female";44;"University";3636;46;1674,70053684871;"Drama";3
+"199";"Male";41;"University";4004;7;255,333819294534;"Comedy";2
+"200";"Male";33;"High School";2670;10;455,896791511377;"Comic";2
+"201";"Male";40;"University";1476;0;0;"Horror";1
+"202";"Male";21;"University";3275;18;868,136686265938;"Horror";2
+"203";"Male";55;"University";4090;16;623,671165942951;"Romance";2
+"204";"Female";38;"University";4793;29;843,632817071093;"Crime";3
+"205";"Male";52;"University";4417;30;642,562961654233;"Horror";2
+"206";"Female";52;"University";4924;49;1819,2463368418;"Crime";3
+"207";"Female";40;"University";4789;7;293,518323871671;"Crime";2
+"208";"Male";33;"High School";3353;14;297,958204738267;"Comic";2
+"209";"Male";25;"High School";1150;45;2147,44186392647;"Romance";2
+"210";"Female";50;"University";1239;17;763,606117559004;"Crime";2
+"211";"Male";36;"High School";1476;21;748,522535870891;"Romance";2
+"212";"Male";46;"University";3597;23;1272,29388917331;"Comedy";2
+"213";"Female";30;"University";4277;18;810,555833187663;"Romance";2
+"214";"Male";29;"University";3409;22;941,981132735514;"Comic";2
+"215";"Male";43;"University";2594;7;221,893020250607;"Crime";2
+"216";"Male";25;"University";2630;46;2271,56136669506;"Drama";2
+"217";"Male";23;"University";3944;2;74,7945996552386;"Crime";2
+"218";"Female";40;"University";3506;22;1051,29576089052;"Drama";2
+"219";"Male";35;"University";4802;22;621,830785410626;"Comedy";2
+"220";"Female";36;"University";2772;47;2703,71977969748;"Horror";2
+"221";"Female";40;"High School";4808;2;112,106837230484;"Romance";2
+"222";"Male";40;"University";2765;45;1459,22823344512;"Horror";2
+"223";"Female";48;"University";3341;11;241,674241221921;"Horror";2
+"224";"Male";26;"University";1271;0;0;"Comedy";1
+"225";"Female";58;"University";1449;2;101,054607482571;"Horror";1
+"226";"Female";34;"University";4128;5;158,174442718076;"Romance";2
+"227";"Female";46;"University";1409;25;1261,49706624594;"Drama";2
+"228";"Male";42;"High School";4768;13;479,352182151244;"Comic";2
+"229";"Female";55;"University";4207;36;1077,26425962234;"Comedy";3
+"230";"Female";37;"University";4109;3;140,798324663635;"Drama";2
+"231";"Female";41;"High School";3113;2;86,0190716347157;"Romance";2
+"232";"Female";49;"University";2512;45;1503,41347036241;"Romance";2
+"233";"Male";28;"High School";4463;25;1023,50790797262;"Drama";2
+"234";"Female";56;"High School";3183;30;1476,63514556583;"Romance";2
+"235";"Female";50;"High School";4644;5;232,923040408244;"Crime";2
+"236";"Female";59;"University";2483;25;1541,1304016901;"Horror";2
+"237";"Male";44;"High School";1643;38;1356,41847250817;"Drama";2
+"238";"Male";23;"University";2479;29;969,357592333884;"Romance";2
+"239";"Male";37;"University";1433;6;228,002940346899;"Comic";1
+"240";"Female";21;"High School";1060;23;828,776131172896;"Romance";2
+"241";"Male";30;"University";2986;34;1680,52362938375;"Romance";2
+"242";"Male";26;"University";1312;1;29,8639435941982;"Comedy";1
+"243";"Male";22;"High School";4044;1;28,6341052071513;"Crime";2
+"244";"Female";28;"High School";2057;41;1756,15187747267;"Comedy";2
+"245";"Male";39;"High School";2236;24;796,212568876745;"Romance";2
+"246";"Male";59;"University";2063;39;1678,63112576286;"Crime";2
+"247";"Male";40;"High School";4287;40;1275,44860848195;"Romance";3
+"248";"Male";52;"University";4886;27;747,880078716131;"Romance";3
+"249";"Male";34;"University";4362;20;1423,0087204848;"Horror";2
+"250";"Male";48;"High School";2912;13;567,30552787623;"Drama";2
+"251";"Female";33;"High School";2058;48;2705,5635997383;"Comedy";2
+"252";"Male";43;"High School";2716;37;1217,25626950013;"Comedy";2
+"253";"Male";49;"High School";2468;18;1177,09436947775;"Comedy";2
+"254";"Male";25;"University";3080;17;1060,4043055964;"Comedy";2
+"255";"Female";21;"University";1857;0;0;"Comedy";1
+"256";"Male";50;"University";1180;1;21,7946094523857;"Comic";1
+"257";"Female";58;"University";1690;29;1676,17992831114;"Horror";2
+"258";"Female";43;"University";4593;33;1928,74041344759;"Comedy";3
+"259";"Male";47;"University";3921;8;293,278238178725;"Crime";2
+"260";"Female";58;"High School";3868;40;1208,95762976382;"Romance";3
+"261";"Male";21;"University";3266;45;2034,14821167666;"Drama";3
+"262";"Female";24;"University";2809;2;47,911155429271;"Comedy";2
+"263";"Female";51;"University";2890;4;142,911305990391;"Drama";2
+"264";"Male";30;"University";3798;23;544,064631052833;"Comedy";2
+"265";"Female";30;"University";4194;2;36,9277849499725;"Comic";2
+"266";"Female";41;"University";3844;3;89,2427421849638;"Comedy";2
+"267";"Male";39;"High School";3896;5;237,677307673073;"Comedy";2
+"268";"Male";52;"High School";4977;5;241,581627914172;"Romance";2
+"269";"Female";24;"University";3185;41;2124,63116229533;"Drama";2
+"270";"Male";57;"University";3469;2;109,500990195342;"Comic";2
+"271";"Female";36;"University";3430;6;272,123745053789;"Comedy";2
+"272";"Female";44;"High School";4965;41;1773,49449012792;"Comic";3
+"273";"Female";56;"University";2319;1;36,6499788296201;"Comedy";1
+"274";"Male";36;"High School";1133;14;465,669372484261;"Crime";2
+"275";"Female";37;"High School";1641;20;751,027047356197;"Crime";2
+"276";"Female";52;"University";4171;36;963,879696250832;"Crime";3
+"277";"Female";39;"High School";1111;15;500,663448876914;"Comic";2
+"278";"Female";35;"University";4425;31;1084,02220464092;"Comic";3
+"279";"Male";28;"High School";3826;20;965,838058469731;"Romance";2
+"280";"Female";39;"University";4474;14;638,275371613921;"Comic";2
+"281";"Female";50;"High School";2571;49;2075,03169859078;"Horror";2
+"282";"Female";49;"University";1920;1;65,7681720023019;"Drama";1
+"283";"Female";56;"University";1746;8;269,240905895751;"Comic";2
+"284";"Male";51;"High School";3331;6;217,592069337101;"Comedy";2
+"285";"Male";49;"University";2333;47;2466,45362749343;"Romance";2
+"286";"Male";27;"High School";1327;37;657,965608589769;"Drama";2
+"287";"Female";44;"University";1861;15;497,393574284406;"Drama";2
+"288";"Male";31;"High School";1361;1;57,5138216184477;"Crime";1
+"289";"Male";34;"University";4111;0;0;"Comedy";2
+"290";"Male";38;"High School";4850;31;1358,32006602227;"Comedy";3
+"291";"Female";37;"High School";1582;43;894,361795497082;"Comedy";2
+"292";"Female";41;"High School";2761;12;305,835845018921;"Comedy";2
+"293";"Male";51;"High School";2974;44;2459,1695544035;"Crime";2
+"294";"Male";43;"University";4286;14;648,664473974976;"Comedy";2
+"295";"Female";29;"University";3756;40;1384,20612278065;"Romance";3
+"296";"Male";52;"University";1513;4;185,054947684719;"Comic";1
+"297";"Female";53;"University";3763;7;244,8157745341;"Comic";2
+"298";"Female";47;"High School";4525;4;174,478255817136;"Comedy";2
+"299";"Female";58;"University";1943;22;1107,89600063621;"Drama";2
+"300";"Female";55;"University";3869;13;557,1648051124;"Comedy";2
+"301";"Female";48;"High School";3863;18;941,627446575996;"Romance";2
+"302";"Female";23;"High School";3225;40;1497,65530205849;"Comic";2
+"303";"Female";47;"High School";2979;14;528,977211052526;"Crime";2
+"304";"Female";55;"High School";1869;12;442,900916205336;"Crime";2
+"305";"Female";29;"High School";1700;37;884,370992873732;"Drama";2
+"306";"Female";37;"University";2861;30;1173,07671888735;"Crime";2
+"307";"Female";51;"University";2168;48;768,009619742951;"Comic";2
+"308";"Female";28;"University";3801;27;766,436272649214;"Crime";2
+"309";"Male";34;"University";2591;17;800,043375853985;"Comedy";2
+"310";"Female";48;"University";1872;22;1498,25346408628;"Comic";2
+"311";"Female";36;"University";4273;9;347,603253519477;"Comic";2
+"312";"Male";20;"University";2383;16;656,886783980596;"Comedy";2
+"313";"Male";30;"University";4394;48;2076,33946163736;"Drama";3
+"314";"Male";51;"University";3478;11;564,352856903234;"Comedy";2
+"315";"Male";51;"University";2779;37;2137,51262794237;"Drama";2
+"316";"Female";39;"High School";1347;47;1623,79827859788;"Horror";2
+"317";"Female";31;"University";2073;5;248,513366777078;"Crime";2
+"318";"Female";47;"University";2703;14;590,623980846689;"Crime";2
+"319";"Male";40;"University";1772;2;76,5507493867559;"Comedy";1
+"320";"Female";57;"University";1704;0;0;"Drama";1
+"321";"Female";51;"High School";3803;38;852,289000015354;"Horror";3
+"322";"Female";43;"University";3043;43;2051,58914840051;"Crime";2
+"323";"Female";46;"University";4850;39;1820,57787811286;"Romance";3
+"324";"Female";38;"High School";1922;16;470,508016604759;"Horror";2
+"325";"Female";35;"University";4745;29;1638,1876435548;"Drama";3
+"326";"Female";42;"University";2676;15;444,494378399875;"Horror";2
+"327";"Female";33;"High School";2045;12;377,214185637893;"Horror";2
+"328";"Female";53;"High School";4161;17;558,122234957249;"Drama";2
+"329";"Male";21;"University";2406;47;2086,20850093775;"Romance";2
+"330";"Male";59;"University";1616;21;902,473548463084;"Horror";2
+"331";"Female";57;"University";1332;3;104,561189339492;"Comedy";1
+"332";"Female";20;"High School";2675;29;1037,01863842931;"Comedy";2
+"333";"Male";29;"University";1432;26;1263,27263239217;"Drama";2
+"334";"Female";53;"University";4866;30;1197,36044555093;"Romance";3
+"335";"Female";54;"University";3328;11;462,853666918102;"Comedy";2
+"336";"Female";53;"High School";4062;46;1983,21643254513;"Comedy";3
+"337";"Male";21;"University";2540;24;885,048521738619;"Romance";2
+"338";"Female";45;"University";4390;13;462,675385538317;"Crime";2
+"339";"Male";37;"High School";1323;32;1487,78970324945;"Drama";2
+"340";"Male";33;"High School";1499;28;1087,13443590423;"Crime";2
+"341";"Male";59;"University";1891;34;1706,19545883658;"Romance";2
+"342";"Female";56;"University";3825;23;932,888891741348;"Drama";2
+"343";"Female";47;"High School";1684;45;1281,87578209834;"Drama";2
+"344";"Female";38;"University";3782;13;722,468104875277;"Romance";2
+"345";"Female";52;"High School";2711;36;1163,19620673881;"Drama";2
+"346";"Male";24;"High School";4323;11;388,148645546026;"Crime";2
+"347";"Female";41;"University";4945;17;730,869371040994;"Crime";2
+"348";"Female";59;"High School";3107;20;626,824634105388;"Drama";2
+"349";"Female";48;"University";1423;24;714,607865846966;"Drama";2
+"350";"Female";28;"University";1943;39;1313,72548723489;"Romance";2
+"351";"Female";33;"University";4413;17;660,436621619478;"Crime";2
+"352";"Female";41;"University";2292;41;1535,9986479495;"Horror";2
+"353";"Male";56;"High School";2747;2;86,7231488043526;"Comic";2
+"354";"Male";30;"High School";4546;47;1719,67629856596;"Crime";3
+"355";"Female";56;"University";3346;7;194,560503764877;"Romance";2
+"356";"Female";29;"University";4067;43;1758,16915704905;"Drama";3
+"357";"Female";20;"University";4627;12;409,595725716806;"Romance";2
+"358";"Female";24;"University";4600;20;956,163078310178;"Comic";2
+"359";"Male";36;"University";2292;5;170,707934516548;"Comic";2
+"360";"Male";29;"University";2862;43;1652,46365352828;"Crime";2
+"361";"Female";49;"High School";4282;30;1188,37494355501;"Drama";2
+"362";"Male";53;"University";3861;34;1515,55473228204;"Romance";2
+"363";"Male";55;"University";1444;32;1132,46651233151;"Drama";2
+"364";"Female";57;"High School";1023;2;75,4057927619618;"Crime";1
+"365";"Male";35;"University";1097;10;299,279032213618;"Romance";1
+"366";"Male";50;"High School";2661;14;560,524452659839;"Drama";2
+"367";"Male";38;"High School";1853;40;1741,61068142627;"Horror";2
+"368";"Male";35;"High School";2803;49;1709,74701220758;"Crime";3
+"369";"Female";37;"High School";2132;12;534,752249229964;"Romance";2
+"370";"Male";36;"University";4937;43;1708,31027784973;"Drama";3
+"371";"Male";58;"High School";1124;47;1884,42569696995;"Romance";2
+"372";"Female";52;"University";1800;21;663,492568679164;"Comedy";2
+"373";"Female";39;"University";3017;45;2429,32535120553;"Drama";3
+"374";"Female";22;"University";3027;31;1391,3821792296;"Crime";2
+"375";"Female";35;"University";2558;8;249,826196029254;"Crime";2
+"376";"Female";35;"University";3138;23;1133,29775833182;"Comic";2
+"377";"Male";24;"University";4794;43;2999,08472605237;"Comedy";3
+"378";"Female";47;"High School";2992;5;194,789560807044;"Horror";2
+"379";"Male";46;"University";2272;18;451,615667486551;"Romance";2
+"380";"Male";54;"University";3724;26;1332,88780672064;"Romance";2
+"381";"Female";23;"University";4400;9;405,092160535393;"Romance";2
+"382";"Female";41;"High School";2356;16;834,213050112017;"Comic";2
+"383";"Female";45;"University";4861;19;718,898370338782;"Comic";2
+"384";"Male";30;"University";4208;18;732,564951642295;"Comic";2
+"385";"Male";33;"High School";3425;12;600,268074806694;"Romance";2
+"386";"Male";55;"High School";2740;1;47,4981365130343;"Drama";2
+"387";"Female";33;"University";2179;32;839,899222489763;"Horror";2
+"388";"Male";28;"University";3720;2;73,0329211482222;"Horror";2
+"389";"Male";30;"University";4077;40;1595,48429611886;"Horror";3
+"390";"Female";35;"University";1355;4;178,769072350477;"Comedy";1
+"391";"Female";45;"High School";4052;15;691,39901872207;"Horror";2
+"392";"Male";34;"University";4009;48;1077,83714618199;"Drama";3
+"393";"Female";50;"University";2678;17;589,772131086695;"Romance";2
+"394";"Male";44;"High School";4950;13;671,004236844156;"Drama";2
+"395";"Female";53;"University";4733;26;889,765936525628;"Comic";2
+"396";"Male";56;"University";4694;22;620,803685388967;"Crime";2
+"397";"Male";50;"High School";3002;28;1077,88203146396;"Crime";2
+"398";"Female";31;"High School";4880;13;643,020728247023;"Horror";2
+"399";"Female";36;"High School";2598;17;654,231226247493;"Comic";2
+"400";"Male";40;"University";1511;46;3287,19025639998;"Crime";2
+"401";"Male";32;"High School";4869;1;17,5736356949551;"Comedy";2
+"402";"Female";35;"High School";2520;36;1361,99465924986;"Romance";2
+"403";"Male";47;"High School";2135;33;792,595362492292;"Comic";2
+"404";"Male";34;"High School";2216;32;902,778709892894;"Comic";2
+"405";"Female";30;"High School";2705;44;1596,78635617044;"Horror";2
+"406";"Male";54;"University";4084;46;1442,14322427191;"Drama";3
+"407";"Female";21;"University";2773;35;673,026033065388;"Horror";2
+"408";"Female";28;"High School";1474;28;1166,4284509272;"Crime";2
+"409";"Male";48;"University";3582;18;570,294788622377;"Crime";2
+"410";"Female";48;"University";1983;39;1576,66539858722;"Comic";2
+"411";"Female";48;"University";3096;49;733,74865203103;"Crime";3
+"412";"Male";29;"University";2263;6;321,468266995276;"Drama";2
+"413";"Male";25;"High School";2147;35;752,060454729237;"Crime";2
+"414";"Female";22;"University";1061;43;1628,48966069433;"Crime";2
+"415";"Male";50;"High School";1128;6;277,7347745661;"Horror";1
+"416";"Female";57;"University";4183;13;318,525596564486;"Drama";2
+"417";"Male";47;"High School";4408;19;970,357546882123;"Comedy";2
+"418";"Male";24;"High School";2528;45;2321,86697658859;"Horror";2
+"419";"Female";31;"High School";2624;22;1134,14665110231;"Crime";2
+"420";"Female";30;"High School";2896;14;459,663384130722;"Comic";2
+"421";"Female";55;"University";1833;8;358,214907801336;"Crime";2
+"422";"Female";29;"University";4742;42;2046,52055840509;"Romance";3
+"423";"Female";22;"High School";4115;13;577,86585848228;"Drama";2
+"424";"Female";29;"High School";2170;24;835,157578127752;"Drama";2
+"425";"Female";54;"University";4979;43;2258,41843406683;"Comic";3
+"426";"Female";34;"Elementary School";1768;14;300,142327687605;"Comedy";2
+"427";"Female";30;"University";3302;21;821,999710350041;"Horror";2
+"428";"Male";23;"University";4969;32;1220,38376766557;"Crime";3
+"429";"Female";57;"University";3881;2;61,4244860262784;"Romance";2
+"430";"Female";25;"University";3570;27;1644,73540692537;"Romance";2
+"431";"Male";21;"University";4477;5;164,91238223868;"Comedy";2
+"432";"Male";36;"High School";2280;27;984,134263846183;"Romance";2
+"433";"Male";48;"High School";4765;27;1089,46268252045;"Comedy";2
+"434";"Female";59;"University";2445;36;938,825483522119;"Crime";2
+"435";"Female";36;"High School";2350;33;1062,12080397913;"Comedy";2
+"436";"Male";44;"High School";3016;32;1137,66570682932;"Comedy";2
+"437";"Male";41;"University";1785;37;1891,11859548868;"Drama";2
+"438";"Female";54;"University";2967;41;1899,19097007169;"Crime";2
+"439";"Male";33;"University";2580;9;528,070001507146;"Comedy";2
+"440";"Female";36;"University";1071;38;1952,55583603487;"Comic";2
+"441";"Male";43;"High School";2166;15;698,865357571003;"Horror";2
+"442";"Male";26;"University";1618;31;524,61311116925;"Drama";2
+"443";"Male";32;"University";4675;29;1668,77126537779;"Comic";3
+"444";"Male";20;"Elementary School";1857;7;352,884067766205;"Comedy";2
+"445";"Female";53;"University";1649;18;542,931386772541;"Crime";2
+"446";"Male";33;"High School";2621;31;1370,05272093493;"Romance";2
+"447";"Male";43;"High School";1493;35;1527,18392640624;"Horror";2
+"448";"Female";46;"High School";4499;39;1386,27110577626;"Drama";3
+"449";"Female";51;"University";1295;23;1259,71269602258;"Drama";2
+"450";"Female";59;"University";2371;3;74,4876364967647;"Crime";2
+"451";"Female";54;"University";2192;0;0;"Horror";1
+"452";"Female";50;"University";2475;44;1222,18184253572;"Comic";2
+"453";"Male";28;"University";2214;19;604,95483961319;"Romance";2
+"454";"Male";39;"High School";4333;26;1409,7602260537;"Horror";2
+"455";"Female";34;"High School";4008;7;267,57345698573;"Drama";2
+"456";"Male";24;"University";3195;37;1882,18341215153;"Crime";2
+"457";"Male";45;"High School";3040;35;1329,21359744617;"Comic";2
+"458";"Male";25;"University";4207;46;1717,85208884532;"Drama";3
+"459";"Female";30;"University";4010;44;1962,96839274487;"Horror";3
+"460";"Male";47;"High School";3267;34;1434,53625019427;"Horror";2
+"461";"Female";43;"University";1214;15;784,591112058609;"Comic";2
+"462";"Female";50;"University";3843;29;1060,55805344456;"Comedy";2
+"463";"Male";24;"University";1121;20;1253,6667608115;"Drama";2
+"464";"Male";20;"High School";3888;25;1247,66655439296;"Crime";2
+"465";"Female";25;"High School";4743;10;434,353795838086;"Romance";2
+"466";"Male";30;"University";2735;30;1372,98853732743;"Romance";2
+"467";"Female";37;"University";4901;27;1096,29497983657;"Comedy";3
+"468";"Female";52;"High School";4680;22;1184,40086429555;"Drama";2
+"469";"Female";20;"University";3131;14;419,990260001999;"Comedy";2
+"470";"Male";54;"University";3865;12;356,062913809737;"Romance";2
+"471";"Male";59;"University";4964;15;739,57276209137;"Comic";2
+"472";"Female";34;"High School";1902;5;181,595763168428;"Romance";1
+"473";"Male";52;"University";3011;46;2116,62038676819;"Crime";3
+"474";"Female";27;"University";1332;17;666,003006719751;"Drama";2
+"475";"Male";48;"High School";3006;45;843,133181794651;"Drama";3
+"476";"Female";32;"High School";3887;10;386,487709493964;"Drama";2
+"477";"Female";57;"University";4454;6;185,0794923197;"Crime";2
+"478";"Male";21;"High School";3278;39;1459,27559995905;"Comedy";2
+"479";"Male";38;"University";2106;37;1544,23105620306;"Romance";2
+"480";"Female";40;"University";1824;2;107,504984883711;"Horror";1
+"481";"Male";24;"University";2976;29;966,480542649915;"Comic";2
+"482";"Male";26;"University";1374;3;97,7980468731346;"Horror";1
+"483";"Male";24;"University";2618;17;535,350787562648;"Romance";2
+"484";"Female";26;"University";2847;27;1020,85983166408;"Comedy";2
+"485";"Female";43;"University";3464;32;1549,50044275015;"Comic";2
+"486";"Male";32;"University";4815;11;469,023366165576;"Crime";2
+"487";"Male";35;"University";4973;35;1370,64580854072;"Drama";3
+"488";"Female";47;"University";4187;34;1700,16264237086;"Comic";3
+"489";"Male";38;"University";3645;30;935,481130872631;"Drama";2
+"490";"Male";53;"High School";3525;9;386,404785916612;"Drama";2
